@@ -1,1 +1,24 @@
 /* Your CSS here. */
+.background-box {
+  margin-top: 4em;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding: 2em;
+  background-color: lightblue;
+}
+
+.image-box {
+  width: 100%;
+}
+
+.profile {
+  display: block;
+  width: 150px;
+  margin: 10px auto;
+}
+
+.info-box {
+  margin: 10px auto;
+  text-align: center;
+
+}
